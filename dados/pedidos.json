@@ -1,0 +1,10 @@
+[
+  {"cliente_id": 1, "itens": [1, 3, 5]},
+  {"cliente_id": 1, "itens": [1, 3, 5]},
+  {"cliente_id": 1, "itens": [2, 3, 7]},
+  {"cliente_id": 2, "itens": [2, 4, 6]},
+  {"cliente_id": 2, "itens": [2, 4]},
+  {"cliente_id": 3, "itens": [1, 5]},
+  {"cliente_id": 3, "itens": [1, 5, 8]},
+  {"cliente_id": 4, "itens": [2, 3, 5, 8]}
+]
